@@ -19,7 +19,7 @@
 [![issues - yoddchatgpt](https://img.shields.io/github/issues/Yoddikko/yoddchatgpt)](https://github.com/Yoddikko/yoddchatgpt/issues)
 
 
-## ⚠️⚠️ As OpenAI's API is now very limited and one has to pay for the ability to write messages/receive images, I don't know how long I can keep up with the app/update it, as I don't have the means to access the premium version of the API and therefore can't test my own app. I'll update when the API breaks (if someone points it out to me) ⚠️⚠️
+## ⚠️⚠️ PROJECT IS DISCONTINUED ⚠️⚠️
 
 <a href = "https://github.com/Yoddikko/yoddChatGPT/wiki"> Wiki </a> ◦ <a href = "https://github.com/Yoddikko/yoddChatGPT/wiki/Code-documentation"> Code documentation </a> ◦ <a href= "https://github.com/Yoddikko/yoddChatGPT/wiki/FAQ"> FAQ </a> ◦ <a href = "https://github.com/Yoddikko/yoddChatGPT/discussions"> Discussions </a>
 
